@@ -28,7 +28,7 @@ Easy survey making
       ]
     }];
   
-    // Next let's initiate the Surveyor object. Specifying our survey array as the first parameter, and the second a selector to attatch our survey to.
+    // Next let's initiate the Surveyor object. Specifying our survey array as the first parameter, and the second a selector to attach our survey to.
   
     let surveyor = new Surveyor(survey, '.root');
   
@@ -47,3 +47,5 @@ Easy survey making
   </script>
 
 ```
+
+<p align="center"><img src="https://i.imgur.com/3G5GJ2j.png" /></p>
